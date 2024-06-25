@@ -1,10 +1,14 @@
 ---
-title: 'Nuxt Getting stated from content'
-description: 'How to use pages in Next.js exploring the options'
+title: Nuxt Getting stated from content
+description: How to use pages in Next.js exploring the options
 date: '2022-12-17'
-lang: 'en'
-categories: [programming]
-tags: [Node Js, Get Started]
+lang: en
+categories:
+  - programming
+tags:
+  - Node Js
+  - Get Started
+published: true
 ---
 
 # Heading 1
